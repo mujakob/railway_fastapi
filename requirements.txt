@@ -6,3 +6,5 @@ passlib
 datetime
 bcrypt
 sqlalchemy
+pymysql
+python-multipart
