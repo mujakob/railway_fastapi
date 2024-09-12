@@ -8,3 +8,4 @@ bcrypt
 sqlalchemy
 pymysql
 python-multipart
+pillow
